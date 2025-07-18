@@ -142,15 +142,16 @@ body{
 
 .nutrition-table th {
     font-family: 'Outfit', sans-serif;
-    font-weight: bold;
-    color: var(--brown);
+    color: var(--stone600);
     text-align: left;
+    font-weight: 400;
 }
 
 .nutrition-table td {
     font-family: 'Outfit', sans-serif;
-    color: var(--stone600);
+    color: var(--brown);
     font-weight: 400;
+    font-weight: bold;
 }
 
 
